@@ -1,0 +1,96 @@
+h1{
+    margin-left:100px
+}
+div{
+    display: block;
+    border: 1px ;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+   margin-left: 100px;
+   margin-right: 100px;
+   box-sizing: border-box;
+   margin-bottom: 20px;
+}
+body{
+    background-color: rgb(47, 255, 130);
+}
+p{
+    margin-left: 10px;
+   
+}
+.name{
+    margin-left: 10px;
+    width: 380px;
+    height: 20px;
+    padding: 5pxs; 
+   
+  
+}
+.email{
+    margin-left: 10px;
+    width: 380px;
+    height: 20px;
+    padding: 5pxs; 
+}
+.age{
+    margin-left: 10px;
+    width: 380px;
+    height: 20px;
+    padding: 5pxs; 
+}
+.yes{
+    margin-left: 10px;
+    
+}
+.no{
+    margin-left: 10px;
+   
+}
+.maybe{
+    margin-left: 10px;  
+}
+.checkbox1{
+    margin-left: 10px;
+}.checkbox2{
+    margin-left: 10px;
+}.checkbox3{
+    margin-left: 10px;
+}.checkbox4{
+    margin-left: 10px;
+}.checkbox5{
+    margin-left: 10px;
+}.checkbox6{
+    margin-left: 10px;
+}.checkbox7{
+    margin-left: 10px;
+}.checkbox8{
+    margin-left: 10px;
+}
+.submit{
+    margin-left: 10px;
+    width: 380px;
+    height: 20px;
+    padding: 5pxs; 
+    background-color:#32FF6D ;
+    color: black;
+    border: 1px solid;
+    border-color: #16da4e;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+.textarea{
+    margin-left: 10px;
+    width: 380px;
+    height: 20px;
+    padding: 5pxs; 
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+.student{
+    margin-left: 10px;
+    width: 380px;
+    height: 20px;
+    padding: 5pxs; 
+    
+}
